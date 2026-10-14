@@ -1,0 +1,6 @@
+{
+  "name": "HabitPulse - Habit & Skill Tracker",
+  "description": "Interactive Habit & Skill Tracker with heatmaps, streak analytics, categorized goals, and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
